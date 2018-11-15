@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ExportScheduler2PDF/Form1.cs) (VB: [Form1.vb](./VB/ExportScheduler2PDF/Form1.vb))
+* [Program.cs](./CS/ExportScheduler2PDF/Program.cs) (VB: [Program.vb](./VB/ExportScheduler2PDF/Program.vb))
+<!-- default file list end -->
 # How to export a  Scheduler in PDF format
 
 
